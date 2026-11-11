@@ -1,0 +1,16 @@
+{
+  "name": "Transport Bill Converter",
+  "short_name": "Transport Bill",
+  "description": "Offline tool: convert Transport Bill Excel files into the Loading and Unloading report.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#17365d",
+  "icons": [
+    {"src": "icons/logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/logo-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icons/logo-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
